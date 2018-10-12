@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The long road into programming"
-date:       2018-09-22 12:40:01 +0000
+date:       2018-09-22 08:40:02 -0400
 permalink:  the_long_road_into_programming
 ---
 
